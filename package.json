@@ -1,0 +1,18 @@
+{
+  "name": "hola_mundo",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto de Javascript en OpenBootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "open": "Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo"
+  },
+  "keywords": [
+    "hola",
+    "mundo",
+    "first",
+    "project"
+  ],
+  "author": "Luis Estigarribia",
+  "license": "ISC"
+}
